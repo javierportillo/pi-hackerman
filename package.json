@@ -1,0 +1,28 @@
+{
+  "name": "@javiportillo/pi-hackerman",
+  "version": "0.1.0",
+  "description": "A neon hacker-style color theme for pi coding agent",
+  "keywords": [
+    "pi",
+    "pi-coding-agent",
+    "hackerman",
+    "theme"
+  ],
+  "license": "MIT",
+  "author": {
+    "name": "Javier Portillo"
+  },
+  "files": [
+    "themes/",
+    "LICENSE",
+    "README.md"
+  ],
+  "peerDependencies": {
+    "@mariozechner/pi-coding-agent": "*"
+  },
+  "pi": {
+    "themes": [
+      "./themes"
+    ]
+  }
+}

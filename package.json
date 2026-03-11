@@ -8,6 +8,14 @@
     "hackerman",
     "theme"
   ],
+  "homepage": "https://github.com/javierportillo/pi-hackerman",
+  "bugs": {
+    "url": "https://github.com/javierportillo/pi-hackerman/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/javierportillo/pi-hackerman.git"
+  },
   "license": "MIT",
   "author": {
     "name": "Javier Portillo"

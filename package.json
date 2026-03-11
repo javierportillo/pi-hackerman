@@ -1,9 +1,11 @@
 {
   "name": "@javiportillo/pi-hackerman",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "A neon hacker-style color theme for pi coding agent",
   "keywords": [
     "pi",
+    "pi-package",
+    "pi-theme",
     "pi-coding-agent",
     "hackerman",
     "theme"
